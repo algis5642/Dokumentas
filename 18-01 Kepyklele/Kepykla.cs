@@ -30,8 +30,9 @@ namespace _18_01_Kepyklele
             foreach (var duona in Duonos)
             {
                 Console.WriteLine("duonos pav: " +duona);
+                
             }
         }
-
+       
     }
 }
